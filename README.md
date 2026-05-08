@@ -7,7 +7,7 @@ Repo d'extensions francophones pour **Tachimanga** et **Mihon/Tachiyomi**.
 Copie-colle cette URL dans **More → Extensions → 🌐 → Add Repository** :
 
 ```
-https://raw.githubusercontent.com/TON_USERNAME/fr-extensions-repo/repo/index.min.json
+https://raw.githubusercontent.com/amine20sdf/fr-extensions-repo/repo/index.min.json
 ```
 
 ## Sources disponibles
@@ -23,4 +23,4 @@ https://raw.githubusercontent.com/TON_USERNAME/fr-extensions-repo/repo/index.min
 | BentoManga | https://bentomanga.com | 🇫🇷 FR | Manga |
 | Anime-Sama | https://anime-sama.fr | 🇫🇷 FR | Manga/Scan |
 
-## Remplace `TON_USERNAME` par ton vrai nom d'utilisateur GitHub.
+
