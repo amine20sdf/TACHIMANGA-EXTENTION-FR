@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/amine20sdf/fr-extensions-repo/repo/index.min.j
 
 | Source | URL | Langue | Type |
 |---|---|---|---|
-| PhenixScans | https://phenix-scans.com | 🇫🇷 FR | Manga/Manhwa |
+| PhenixScans | https://phenix-scans.co | 🇫🇷 FR | Manga/Manhwa |
 | SushiScan | https://sushiscan.net | 🇫🇷 FR | Manga/Manhwa/Manhua |
 | Manga-Scantrad | https://manga-scantrad.io | 🇫🇷 FR | Manga |
 | Mangas Origines | https://mangas-origines.fr | 🇫🇷 FR | Manga/Webtoon |
