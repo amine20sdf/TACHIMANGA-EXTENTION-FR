@@ -1,0 +1,8 @@
+rootProject.name = 'fr-extensions-repo'
+include ':src:fr:PhenixScans'
+include ':src:fr:SushiScan'
+include ':src:fr:MangaScantrad'
+include ':src:fr:MangasOrigines'
+include ':src:fr:ScantradUnion'
+include ':src:fr:LelManga'
+include ':src:fr:BentoManga'

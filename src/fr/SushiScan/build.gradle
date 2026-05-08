@@ -1,0 +1,6 @@
+ext {
+    extName = 'SushiScan'
+    extClass = '.SushiScan'
+    extVersionCode = 3
+}
+apply from: "$rootDir/common.gradle"
