@@ -21,6 +21,6 @@ https://raw.githubusercontent.com/amine20sdf/fr-extensions-repo/repo/index.min.j
 | Scantrad Union | https://scantrad-union.com | 🇫🇷 FR | Manga |
 | LelManga | https://lelmanga.com | 🇫🇷 FR | Manga |
 | BentoManga | https://bentomanga.com | 🇫🇷 FR | Manga |
-| Anime-Sama | https://anime-sama.fr | 🇫🇷 FR | Manga/Scan |
+| Anime-Sama | https://anime-sama.to | 🇫🇷 FR | Manga/Scan |
 
 
